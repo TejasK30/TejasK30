@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **Passionate full stack web developer from India**.<br><br> 🌱 **I’m currently learning:**  <br>Typescript, AWS<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love Coding.
+🔭 **Passionate full stack web developer from India**.<br><br> 🌱 **I’m currently learning:**  <br>Typescript, AWS<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, and any general software development questions.<br><br>⚡ **I love learning new things in tech and love programming**  <br>
 
 
 # 💻 Tech Stack:
